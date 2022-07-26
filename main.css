@@ -1,0 +1,55 @@
+*{
+    font-family: 'Fredoka', sans-serif;
+}
+.btn-pokemon{
+    width: 250px;
+}
+.btn-movies{
+    width: 250px;
+}
+.btn-both{
+    width: 250px;
+}
+.btn-clean{
+    width: 250px;
+}
+.render-logo{ 
+    width: 600px;
+    height: 300px;
+}
+h2{
+    font-weight: 700;
+}
+h3{
+    font-weight: 600;
+}
+h4{
+    font-weight: 400;
+}
+.card{
+    width: 370px;
+    height: 500px;
+}
+.li-card{
+    transform: scale(1);
+    transition: all .5s ease;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75); 
+}
+.li-card:hover{
+    transform: scale(1.1);
+    transition: all .5s ease;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+}
+.text-danger{
+   width: 125px;
+}
+.text-info{
+    width: 100px;
+ }
+ .text-success{
+    width: 100px;
+ }
